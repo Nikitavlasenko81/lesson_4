@@ -1,0 +1,13 @@
+.mb-10{
+    margin-bottom: 10px;
+}
+
+.inline-block{
+    display: inline-block;
+}
+.block{
+    display: block;
+}
+.inline{
+    display: inline;
+}

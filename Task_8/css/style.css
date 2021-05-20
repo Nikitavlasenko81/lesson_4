@@ -1,0 +1,28 @@
+.wrapper{
+    letter-spacing:-2em;
+    position: relative;
+}
+div{
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    color: white;
+}
+.one{
+    background: #FF0000;
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+.two{
+    background: #00FF00;
+}
+.three{
+    background: #0000FF;
+}
+.four{
+    background: #000000;
+    position: absolute;
+    left: 0px;
+    top: 100px;
+}

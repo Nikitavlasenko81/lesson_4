@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+}
+.red{
+    background: red;
+}
+.white{
+    background: white;
+}
+.float-left{
+    float: left;
+}
+.float-right{
+    float: right;
+}
+.width_20{
+    width: 20%;
+}
+.width_60{
+    width: 60%
+}
+.width_80{
+    width: 80%;
+}
+.inline-block{
+    display: inline-block;
+}
+.margin-left{
+    margin-left: 20%;
+}

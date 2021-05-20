@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+.aside{
+    border: 1px dotted black;
+}
+.main{
+    border: 1px solid black;
+}
+body {
+    width: 1000px;
+}
+
+.aside {
+    width: 30%;
+    float: left;
+}
+.main {
+    margin-left: 30%;
+}

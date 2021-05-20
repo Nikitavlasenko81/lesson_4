@@ -1,0 +1,10 @@
+.open:hover{
+    cursor: pointer;
+}
+.open:hover ul:first-child{
+    display: block;
+    background: #FF0000;
+}
+.open ul:first-child{
+    display: none;
+}
